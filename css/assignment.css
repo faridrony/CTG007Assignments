@@ -1,20 +1,19 @@
 body{
 	font-family: Roboto,sans-serif; 
-	line-height: 1.46666667;
-	color: #777;
-	font-weight: 300;
-	margin: 0 auto;
-	padding: 0
+line-height: 1.46666667;
+color: #777;
+font-weight: 300;
+margin: 0 auto;
+padding: 0
 }
 .cl{
 	clear: both;
 }
-img{
-	max-width: 100%
-}
+img{max-width: 100%}
 hr{
 margin: 0;
 width: 50%;
+/*border: 1px solid #ddd;*/
 }
 ul{
 padding: 0; list-style-type: none;text-decoration: none;
@@ -88,7 +87,8 @@ header .social .social-list ul li a:hover i{color: #fff}
 	width: 100%;
 }
 .navigation nav{
-	padding: 0 15px;
+padding-left: 15px;
+padding-right: 15px;
 width: 60%;
 margin: 0 auto;
 }
