@@ -1,15 +1,17 @@
 body{
 	font-family: Roboto,sans-serif; 
-line-height: 1.46666667;
-color: #777;
-font-weight: 300;
-margin: 0 auto;
-padding: 0
+	line-height: 1.46666667;
+	color: #777;
+	font-weight: 300;
+	margin: 0 auto;
+	padding: 0
 }
 .cl{
 	clear: both;
 }
-img{max-width: 100%}
+img{
+	max-width: 100%
+}
 hr{
 margin: 0;
 width: 50%;
